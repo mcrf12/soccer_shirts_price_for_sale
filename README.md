@@ -5,7 +5,7 @@ With this code and some help from the windows task scheduler, you'll be able to 
 
 At first, only the code from Centauro's store is available, but the goal is to complete all the above over time.
 
-- [ ] Centauro;
+- [x] Centauro;
 - [ ] Netshoes;
 - [ ] FutFanatics;
 - [ ] ...
