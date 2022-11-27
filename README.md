@@ -24,10 +24,12 @@ So, with just a few research at stackoverflow you'll be able to adjust it.
 - [Optional] Windows task scheduler to receive daily mails
 
 Just follow the steps from the link below to create your .bat file and schedule your task.
+
 https://datatofish.com/python-script-windows-scheduler/
 
-[Atention for Anaconda users]
+*[Atention for Anaconda users]*
 If you run your python scripts with anaconda, you'll need a few more steps described at the link below:
+
 https://medium.com/@roddyjaques/how-to-run-anaconda-programs-with-a-bat-file-5f6dd7675508
 
 I hope it helps you!
